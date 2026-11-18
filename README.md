@@ -4,14 +4,14 @@ Hi there, I'm Poriya! 👋
 
 I'm passionate about technology, programming, and web development. I enjoy building websites and continuously improving my coding skills.
 
-🚀 About Me
+👩🏻‍💻 About Me
 
-- ✅ Completed HTML and CSS
-- 🌱 Currently learning JavaScript and Python
-- 💻 Building web development projects
-- 🎯 Interested in Computer Science and Artificial Intelligence
+-  Completed HTML and CSS
+-  Currently learning JavaScript and Python
+-  Building web development projects
+-  Interested in Computer Science and Artificial Intelligence
 
-🛠️ Technologies & Tools
+📌 Technologies & Tools
 
 - HTML5
 - CSS3
