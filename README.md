@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there, I'm Poriya! 👋
 
-<!--
-**PoriyaSultani/PoriyaSultani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about technology, programming, and web development. I enjoy building websites and continuously improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- ✅ Completed HTML and CSS
+- 🌱 Currently learning JavaScript and Python
+- 💻 Building web development projects
+- 🎯 Interested in Computer Science and Artificial Intelligence
+
+🛠️ Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript (Learning)
+- Python (Learning)
+- Git & GitHub
+
+📂 My Projects
+
+- Book Haven – A bookstore website.
+- My First HTML & CSS Project – My first web development project.
